@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T07:47:48.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="RR6hZikVgJInWaY1jvXE" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T03:10:48.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="IS87_UkOQly2U4qhWQpD" version="15.8.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,38 +141,38 @@
           </mxGeometry>
         </mxCell>
         <object label="" id="doDaxF0T0q-OkC4RoXSE-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
             <mxGeometry x="205" y="1160" width="620" height="80" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-2" value="采集整合组kafka" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-2" value="采集整合组kafka" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="1180" width="110" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="doDaxF0T0q-OkC4RoXSE-2">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="doDaxF0T0q-OkC4RoXSE-2" vertex="1">
           <mxGeometry x="50" y="80" width="10" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-4" value="采集程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-4" value="采集程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="1180" width="120" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-7" value="CP数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-7" value="CP数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="1180" width="160" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="doDaxF0T0q-OkC4RoXSE-7">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="doDaxF0T0q-OkC4RoXSE-7" vertex="1">
           <mxGeometry x="75" y="300" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-22" value="加载数据" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="doDaxF0T0q-OkC4RoXSE-7">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-22" value="加载数据" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="doDaxF0T0q-OkC4RoXSE-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="420" as="sourcePoint" />
             <mxPoint x="75" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1300" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="280" y="1380.2" width="10" height="259.8" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-12" value="按照partition采集" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.82;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="doDaxF0T0q-OkC4RoXSE-11">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-12" value="按照partition采集" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.82;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="doDaxF0T0q-OkC4RoXSE-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="288.20000000000005" y="1340" as="sourcePoint" />
             <Array as="points">
@@ -181,16 +181,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-13" value="实时标签工程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-13" value="实时标签工程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="1160" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-14" value="webcapture文件" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-14" value="webcapture文件" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="1180.2" width="100" height="579.8" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1480" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-18" value="流消息" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;entryX=0.22;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="doDaxF0T0q-OkC4RoXSE-10">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-18" value="流消息" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;entryX=0.22;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="doDaxF0T0q-OkC4RoXSE-10" edge="1">
           <mxGeometry x="-0.0161" relative="1" as="geometry">
             <mxPoint x="80" y="1300" as="sourcePoint" />
             <mxPoint x="255" y="1300" as="targetPoint" />
@@ -198,10 +198,74 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="doDaxF0T0q-OkC4RoXSE-21" value="落盘生成webcapture" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="doDaxF0T0q-OkC4RoXSE-14">
+        <mxCell id="doDaxF0T0q-OkC4RoXSE-21" value="落盘生成webcapture" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" target="doDaxF0T0q-OkC4RoXSE-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="1520.24" as="sourcePoint" />
             <mxPoint x="465" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="XqD2HciCAePB8cB9uwHq-27">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="205" y="2250" width="355" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-28" value="采集整合组kafka" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2270" width="110" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-29" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="XqD2HciCAePB8cB9uwHq-28">
+          <mxGeometry x="50" y="80" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-30" value="采集程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="2270" width="120" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-31" value="监控系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2270" width="160" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="XqD2HciCAePB8cB9uwHq-31">
+          <mxGeometry x="75" y="300" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-33" value="监控" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;rounded=1;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="XqD2HciCAePB8cB9uwHq-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="420" as="sourcePoint" />
+            <mxPoint x="75" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-34" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2390" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2470.2" width="10" height="259.8" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-36" value="按照partition采集" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.82;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="XqD2HciCAePB8cB9uwHq-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="288.20000000000005" y="2430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="2430.2" />
+              <mxPoint x="315" y="2470.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-37" value="实时标签工程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="2250.2" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-38" value="webcapture文件" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2270.2" width="100" height="579.8" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-39" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2570" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-40" value="流消息" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;entryX=0.22;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XqD2HciCAePB8cB9uwHq-34">
+          <mxGeometry x="-0.0161" relative="1" as="geometry">
+            <mxPoint x="80" y="2390" as="sourcePoint" />
+            <mxPoint x="255" y="2390" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XqD2HciCAePB8cB9uwHq-41" value="落盘生成webcapture" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="XqD2HciCAePB8cB9uwHq-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="2610.24" as="sourcePoint" />
+            <mxPoint x="465" y="2610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
